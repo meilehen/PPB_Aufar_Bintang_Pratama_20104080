@@ -14,8 +14,8 @@ Disusun Oleh :
 **SE04-03**
 
 Asisten Praktikum :  
+Aisyah Hasna Aulia  
 Muhammad Faza Zulian
-Aisyah Hasna Aulia
 
 Dosen Pengampu :  
 Yudha Islami Sulistya, S.Kom., M.Cs
