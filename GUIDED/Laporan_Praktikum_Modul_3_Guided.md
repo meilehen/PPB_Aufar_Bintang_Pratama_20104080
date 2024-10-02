@@ -14,16 +14,16 @@ Disusun Oleh :
 **SE04-03**
 
 Asisten Praktikum :  
-Aisyah Hasna Aulia  
-Muhammad Faza Zulian
+**Aisyah Hasna Aulia**  
+**Muhammad Faza Zulian**
 
 Dosen Pengampu :  
-Yudha Islami Sulistya, S.Kom., M.Cs
+**Yudha Islami Sulistya, S.Kom., M.Cs**
 
-PROGRAM STUDI S1 REKAYASA PERANGKAT LUNAK  
+**PROGRAM STUDI S1 REKAYASA PERANGKAT LUNAK  
 FAKULTAS INFORMATIKA  
 TELKOM UNIVERSITY PURWOKERTO  
-2024
+2024**
 
 </div>
 
