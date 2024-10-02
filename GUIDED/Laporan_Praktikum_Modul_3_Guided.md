@@ -14,8 +14,8 @@ Disusun Oleh :
 **SE04-03**
 
 Asisten Praktikum :  
-Mas Faza  
-Mba Hasna
+Muhammad Faza Zulian
+Aisyah Hasna Aulia
 
 Dosen Pengampu :  
 Yudha Islami Sulistya, S.Kom., M.Cs
